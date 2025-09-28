@@ -41,7 +41,6 @@ Below are screenshots showcasing the eGain Laptop Advisor Chatbot in action:
 |----------------------------|-------------------------------|
 | ![Home Screen](./screenshots/app.png) | ![Chatbot Conversation](./screenshots/flowchart.png) |
 
-> _Screenshots are located in the `assets/screenshots` directory. Replace these images with your own if needed._
 
 **Shawn Agustin**  
 Candidate for eGain Analyst I, Solution Success Position
