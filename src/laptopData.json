@@ -1,0 +1,58 @@
+{
+  "Work": {
+    "Under $500": [
+      { "name": "Acer Aspire 5", "price": 450, "cpu": "Intel i3", "ram": 8, "storage": "256GB SSD" }
+    ],
+    "$500-$1000": [
+      { "name": "Lenovo ThinkPad E14", "price": 899, "cpu": "Intel i5", "ram": 16, "storage": "512GB SSD" }
+    ],
+    "$1000-$1500": [
+      { "name": "Dell XPS 13", "price": 1299, "cpu": "Intel i7", "ram": 16, "storage": "512GB SSD" }
+    ],
+    "Over $1500": [
+      { "name": "Apple MacBook Pro 14", "price": 1999, "cpu": "Apple M2 Pro", "ram": 16, "storage": "512GB SSD" }
+    ]
+  },
+  "Gaming": {
+    "Under $500": [
+      { "name": "HP Victus 15 (Entry Gaming)", "price": 499, "cpu": "Ryzen 5", "ram": 8, "gpu": "GTX 1650", "storage": "512GB SSD" }
+    ],
+    "$500-$1000": [
+      { "name": "Acer Nitro 5", "price": 899, "cpu": "Intel i5", "ram": 16, "gpu": "RTX 3050", "storage": "512GB SSD" }
+    ],
+    "$1000-$1500": [
+      { "name": "ASUS TUF Gaming A15", "price": 1299, "cpu": "Ryzen 7", "ram": 16, "gpu": "RTX 4060", "storage": "1TB SSD" }
+    ],
+    "Over $1500": [
+      { "name": "Razer Blade 15", "price": 2299, "cpu": "Intel i9", "ram": 32, "gpu": "RTX 4070", "storage": "1TB SSD" }
+    ]
+  },
+  "Student": {
+    "Under $500": [
+      { "name": "HP 14", "price": 399, "cpu": "Intel i3", "ram": 8, "storage": "256GB SSD" }
+    ],
+    "$500-$1000": [
+      { "name": "ASUS ZenBook 14", "price": 899, "cpu": "Intel i5", "ram": 16, "storage": "512GB SSD" }
+    ],
+    "$1000-$1500": [
+      { "name": "MacBook Air M2", "price": 1199, "cpu": "Apple M2", "ram": 8, "storage": "512GB SSD" }
+    ],
+    "Over $1500": [
+      { "name": "Microsoft Surface Laptop 5", "price": 1599, "cpu": "Intel i7", "ram": 16, "storage": "512GB SSD" }
+    ]
+  },
+  "Creative": {
+    "Under $500": [
+      { "name": "Lenovo IdeaPad 3 (Basic Creative)", "price": 479, "cpu": "Ryzen 5", "ram": 8, "storage": "256GB SSD" }
+    ],
+    "$500-$1000": [
+      { "name": "Dell Inspiron 15 Plus", "price": 949, "cpu": "Intel i5", "ram": 16, "gpu": "RTX 3050", "storage": "512GB SSD" }
+    ],
+    "$1000-$1500": [
+      { "name": "Apple MacBook Pro 13 (M2)", "price": 1299, "cpu": "Apple M2", "ram": 16, "storage": "512GB SSD" }
+    ],
+    "Over $1500": [
+      { "name": "Apple MacBook Pro 16 (M2 Max)", "price": 2499, "cpu": "Apple M2 Max", "ram": 32, "storage": "1TB SSD" }
+    ]
+  }
+}
